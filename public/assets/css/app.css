@@ -1,0 +1,16 @@
+p.page-link {
+    cursor: pointer;
+}
+
+body {
+    background-color: #f4f5f7;
+    font-family: "Open Sans", sans-serif;
+}
+
+.smooth-border-radius {
+    border-radius: 8px;
+}
+
+.background-white {
+    background-color: #fff;
+}
